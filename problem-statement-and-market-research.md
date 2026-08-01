@@ -62,6 +62,7 @@ How MediConnect Addresses These Gaps:
 -Automated appointment and medication reminders
 -Centralized digital health records
 -Caregiver access and care coordination
+-Digital Prescriptions 
 -Chronic disease tracking and follow-up management
 -Low-bandwidth, user-friendly design for rural and semi-urban users
 
