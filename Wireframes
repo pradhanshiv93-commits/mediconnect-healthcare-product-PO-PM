@@ -1,1 +1,28 @@
 
+    Start
+          │
+          ▼
+   Login / Register
+          │
+          ▼
+   Book Appointment
+          │
+          ▼
+  Consult Doctor
+          │
+          ▼
+ Receive Prescription
+          │
+          ▼
+ Send Reminders
+          │
+     ┌────┴────┐
+     ▼         ▼
+ Patient   Caregiver
+     │         │
+     └────┬────┘
+          ▼
+  Follow-up Visit
+          │
+          ▼
+         End
