@@ -11,7 +11,7 @@ using a healthcare domain scenario
 ## Documents
 
 # Documents
-1. [Problem Statement & Market Research](01-problem-statement-and-market-research.md)
+1. [Problem Statement & Market Research](problem-statement-and-market-research.md)
 2. [Vision & Roadmap](02-vision-and-roadmap.md)
 3. [Business Requirements Document (BRD)](03-brd.md)
 4. [Personas & Journey Maps](04-personas-and-journey-maps.md)
