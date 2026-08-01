@@ -58,11 +58,26 @@ Current telehealth platforms focus mainly on booking appointments and online con
 -Rural accessibility issues: Many apps require stable internet and are not optimized for low-bandwidth users.
 
 How MediConnect Addresses These Gaps:
+  
+  -Automated appointment and medication reminders
+  -Centralized digital health records
+  -Caregiver access and care coordination
+  -Digital Prescriptions 
+  -Chronic disease tracking and follow-up management
+  -Low-bandwidth, user-friendly design for rural and semi-urban users
 
--Automated appointment and medication reminders
--Centralized digital health records
--Caregiver access and care coordination
--Digital Prescriptions 
--Chronic disease tracking and follow-up management
--Low-bandwidth, user-friendly design for rural and semi-urban users
+
+  ##Target Users
+Primary Users
+Patients with chronic diseases
+Elderly patients
+Rural and semi-urban populations
+Individuals requiring regular specialist consultations
+
+##Secondary Users
+Physicians
+Clinics
+Hospitals
+Caregivers and family members
+Community health workers
 
